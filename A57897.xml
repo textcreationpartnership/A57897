@@ -1,0 +1,223 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of agreement &amp; subscription between his highness Prince Rupert, and divers noble and honourable persons, and others, undertakers for working of mines royal, in the counties of Cardigan &amp; Merioneth, in the principality of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57897</idno>
+            <idno type="STC">Wing R2285</idno>
+            <idno type="STC">ESTC R220874</idno>
+            <idno type="EEBO-CITATION">99832259</idno>
+            <idno type="PROQUEST">99832259</idno>
+            <idno type="VID">36731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57897)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2057:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of agreement &amp; subscription between his highness Prince Rupert, and divers noble and honourable persons, and others, undertakers for working of mines royal, in the counties of Cardigan &amp; Merioneth, in the principality of Wales.</title>
+                  <author>Rupert, Prince, Count Palatine, 1619-1682.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Phillips at the Black Raven in Chancery-lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mines and mineral resources --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36731:1" rendition="simple:additions"/>
+            <p>ARTICLES OF AGREEMENT &amp; SUBSCRIPTION, BETWEEN His Highneſs PRINCE <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> and divers Noble and Honourable Perſons, and others, Undertakers for working of Mines Royal, In the Counties of <hi>CARDIGAN</hi> &amp; <hi>MERIONETH,</hi> in the Principality of <hi>WALES.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Phillips</hi> at the <hi>Black Raven</hi> in <hi>Chancery-lane.</hi> 1670.</p>
+            <pb facs="tcp:36731:2"/>
+            <pb facs="tcp:36731:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36731:3"/>
+            <pb n="1" facs="tcp:36731:3"/>
+            <head>An Agreement and Subſcription made this Nineteenth day of <hi>April,</hi> Anno Dom. <hi>1670.</hi> Anno<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Regis <hi>Caroli</hi> Se<g ref="char:EOLhyphen"/>cundi, <hi>&amp;c.</hi> viceſimo ſecundo, by his Highneſs Prince <hi>Rupert,</hi> Count Palatine of the <hi>Rhine,</hi> Duke of <hi>Bavaria</hi> and <hi>Cumberland;</hi> together with divers Noble, Emi<g ref="char:EOLhyphen"/>nent, and worthy Perſons, Joynt Undertakers for the working of certain <hi>Mines Royal,</hi> in the Counties of <hi>Cardigan,</hi> and <hi>Merioneth,</hi> within the Principality of <hi>Wales.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the ſaid Perſons have joyntly and unanimouſly agreed to work cer<g ref="char:EOLhyphen"/>tain <hi>Mines Royal,</hi> in the ſaid Coun<g ref="char:EOLhyphen"/>ties; and for the effectual doing of the ſame, have agreed to advance the ſumme of four thouſand pounds, ac<g ref="char:EOLhyphen"/>cording to the Subſcriptions hereafter mentioned; whereof one Moiety is already pay'd down. And whereas the ſaid Perſons have already had divers Meetings, for the reducing the ſaid Work, and the ma<g ref="char:EOLhyphen"/>nagement of the ſame, into certain Rules, Order and Method: It is now hereby Declared, Articled, and A<g ref="char:EOLhyphen"/>greed, by and between all the ſaid Parties, ſubſcribing and ſealing theſe preſents; That the ſame ſhall be, as hereafter in theſe preſents is declared.</p>
+            <pb n="2" facs="tcp:36731:4"/>
+            <p>
+               <note place="margin">1. 40 Shares, and no more.</note>
+               <hi>Imprimis,</hi> That the ſaid Undertaking ſhall conſiſt of forty whole ſhares and parts, and no more; every of which ſhares ſhall be one hundred pounds. And it is hereby Intended and Declared, That no Perſon whatſo<g ref="char:EOLhyphen"/>ever ſubſcribing, his Heirs, Executors, or Adminiſtra<g ref="char:EOLhyphen"/>tors, ſhall without his or their Conſent, be any way li<g ref="char:EOLhyphen"/>able to be charged with any other or greater ſumme of money, for the carrying on of the ſaid Works, than is by him ſubſcribed to theſe preſents. And that in the diviſion of any profits, that ſhall or may ariſe from any of the ſaid Works, ſuch profits ſhall be divided into forty equal parts. And every Perſon ſo ſubſcribing and paying in one whole ſhare or part, ſhall receive one full fortieth part of all ſuch clear profits, ſo ariſing from the ſaid Works. And every Perſon ſubſcribing and paying in two whole ſhares, ſhall receive two fortieth parts, and ſo every perſon proportionably, according to his and their Intereſt in the ſame.</p>
+            <p n="2">
+               <note place="margin">2. <hi>Edw. Backwel</hi> 
+                  <abbr>Eſq</abbr> Treaſurer</note>2. That the one Moiety of the ſaid four thouſand pounds, which is already pay'd in to <hi>Edward Backwell</hi> 
+               <abbr>Eſq</abbr> upon the accompt of the ſaid Undertaking, ſhall remain in the hands of the ſaid <hi>Edward Backwell,</hi> as Trea<g ref="char:EOLhyphen"/>ſurer to the ſaid Undertakers. And that all moneys pay'd in to the ſaid Undertakers, or disburſed for their uſe, ſhall be payed unto the ſaid <hi>Edward Backwell,</hi> and disburſed by him, (untill further order be made to the contrary, according to the one and twentieth Article following.<note place="margin">How he ſhall iſſue money.</note>) And that the ſaid <hi>Edward Backwell</hi> ſhall iſſue no moneys relating to the ſaid Stock, above the ſumme of twenty pounds at one time, without order under the hands of five of the ſaid Undertakers at the leaſt, whereof three muſt be of the ſtanding Committee, in
+<pb n="3" facs="tcp:36731:4"/>the ſixteenth Article following expreſſed and appointed. And the ſame order be confirmed, as in the one and twentieth Article following is expreſſed. And that the ſaid <hi>Edward Backwell</hi> do iſſue no moneys, to the ſumme of twenty pounds or under, without order under the hands of five or more of the ſaid Undertakers, whereof three to be of the ſaid ſtanding Committee, as afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p n="3">
+               <note place="margin">3. Second Moiety to be paid in upon 14. dayes notice.</note>3. That the other Moiety of the ſaid four thouſand pounds, which is yet unpay'd, ſhall be pay'd in by the ſeveral Undertakers, their Executors, Adminiſtrators, or Aſſignes, according to their ſeveral ſubſcriptions and ſhares, at ſuch time and place, and in ſuch manner, as by any order made and ſigned by five or more of the Un<g ref="char:EOLhyphen"/>dertakers, (whereof three at the leaſt to be of the ſtand<g ref="char:EOLhyphen"/>ing Committee, in the ſixteenth Article following ex<g ref="char:EOLhyphen"/>preſſed) ſhall be appointed; and the ſaid order be con<g ref="char:EOLhyphen"/>firmed, as in the one and twentieth Article is expreſſed. So that ſuch perſon, his Executors, Adminiſtrators, or Aſſignes, have notice of the ſaid Order, fourteen dayes at leaſt before ſuch moneys due on the ſecond Moiety, be ordered to be pay'd, as aforeſaid.</p>
+            <p n="4">
+               <note place="margin">4. Every perſon failing to pay, to be excluded.</note>4. That if any perſon of the ſaid Undertakers ſubſcri<g ref="char:EOLhyphen"/>bing theſe preſents, his Executors, Adminiſtrators or Aſ<g ref="char:EOLhyphen"/>ſignes, upon notice of ſuch Order ſo made, as in the next precedent Article is declared, ſhall not pay in his or their ſecond Moiety, at ſuch time, and in ſuch man<g ref="char:EOLhyphen"/>ner, as by the ſaid Order ſhall be ordered and appointed; That then every perſon or perſons ſo ſubſcribing, his or their Executors, Adminiſtrators, or Aſſignes, omit<g ref="char:EOLhyphen"/>ting or refuſing to pay in the ſecond Moiety as aforeſaid,
+<pb n="4" facs="tcp:36731:5"/>ſhall be and is hereby excluded, to have any benefit or advantage by the ſaid Undertaking, or ever after to have any Vote amongſt the ſaid Undertakers. But the reſt of the ſaid Undertakers, or ſuch Quorum, (as in the one and twentieth Article following is expreſt) ſhall and may take in any other perſon into the ſaid ſhare and pro<g ref="char:EOLhyphen"/>portion, (ſubſcribing theſe preſents, and paying the whole ſhare with intereſt) or may let the ſame ſink in the common Stock.<note place="margin">But may re<g ref="char:EOLhyphen"/>ceive his firſt Moiety out of the firſt clear profits.</note> But ſuch perſon or perſons ſo ſubſcribing, and not paying in his or their ſecond Moie<g ref="char:EOLhyphen"/>ty, as aforeſaid, his and their Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors, or Aſſignes, ſhall and may receive his firſt Moiety, already pay'd in, out of the firſt clear profits, ariſing out of the ſaid Mines and Undertaking, after ſatisfacti<g ref="char:EOLhyphen"/>on firſt made to all perſons who ſhall pay in their ſecond Moiety, of all Principal and Intereſt, out of the ſaid clear profits.</p>
+            <p n="5">
+               <note place="margin">5. Survivorſhip not to t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke place, but to go to the Execu<g ref="char:EOLhyphen"/>tors.</note>5. That for ſuch perſon and perſons, ſubſcribing and paying in the ſaid ſecond Moiety, as aforeſaid, it is hereby Intended and Declared, That the ſhare and pro<g ref="char:EOLhyphen"/>portion of ſuch perſon or perſons, ſhall not by his or their death ſurvive to the remaining Undertakers. But the ſame together with all profits and advantages, ſhall go to his and their Executors and Adminiſtrators ſo dy<g ref="char:EOLhyphen"/>ing, as aforeſaid, only ſubject to ſuch Rules and Or<g ref="char:EOLhyphen"/>ders, as in theſe preſents are contained, and not other<g ref="char:EOLhyphen"/>wiſe.</p>
+            <p n="6">
+               <note place="margin">6. Liberty to aſ<g ref="char:EOLhyphen"/>ſign; and in what manner.</note>6. That any perſon ſo ſubſcribing, and paying in his ſe<g ref="char:EOLhyphen"/>cond Moiety, as aforeſaid, may at his pleaſure aſſign and transferre his Share or Shares to any perſon, ſo as he firſt do acquaint the ſaid Undertakers with the ſame:
+<pb n="5" facs="tcp:36731:5"/>And that the ſaid perſon be allowed, by Order made by the ſaid Undertakers, or any five or more of them, (whereof three to be of the ſtanding Committee, in the ſixteenth Article following expreſſed.) And ſo as that he do not aſſign leſs, than one whole Share to one perſon.</p>
+            <p n="7">
+               <note place="margin">7. Leaſes to be ta<g ref="char:EOLhyphen"/>ken in <hi>Cardigan</hi> and <hi>Merioneth.</hi>
+               </note>7. That the ſaid Undertakers ſhall forthwith take from the Society of the <hi>Royal Mines,</hi> one or more Leaſe or Leaſes, for one and forty years, in their own names, or in the names of ſome others in truſt for them, of all thoſe Mines of <hi>Comſymlock, Goginian, Combmarvin,</hi> and <hi>Tallibont,</hi> lying within the Pariſhes of <hi>Lambatherne, Vaur,</hi> and <hi>Llanyhangell,</hi> alias <hi>Llanyhangell Caſtle Gwal<g ref="char:EOLhyphen"/>ter,</hi> in the ſaid County of <hi>Cardigan.</hi> And alſo of all thoſe Mines near <hi>Bermouth,</hi> in the ſaid County of <hi>Meri<g ref="char:EOLhyphen"/>oneth;</hi> and of ſuch other Mine or Mines within the Principality of <hi>Wales,</hi> or elſewhere, as by the ſaid Un<g ref="char:EOLhyphen"/>dertakers, or any five of them, (whereof three at the leaſt to be of the ſtanding Committee, in the ſixteenth Article following expreſt) ſhall be Ordered and Agreed upon. So that ſuch Order be confirmed, as in the one and twentieth Article is limited, at and upon ſuch Rents and Terms, as can with beſt advantage be procu<g ref="char:EOLhyphen"/>red from the ſaid Society. And that the ſaid Underta<g ref="char:EOLhyphen"/>kers ſhall likewiſe proceed to perfect one Agreement, for the purchaſing in of a Leaſe of certain ſmelting and refining Mills, with the appurtenances, in <hi>Skybory Coed,</hi> in the Pariſh of <hi>Llanyhangell Generoglyn,</hi> in the ſaid County of <hi>Cardigan:</hi>
+               <note place="margin">And the Inte<g ref="char:EOLhyphen"/>reſt of the Mills.</note> The intereſt of which Mills, with the appurtenances, now is or late was in <hi>William Dicken<g ref="char:EOLhyphen"/>ſon,</hi> of the <hi>Middle Temple London</hi> 
+               <abbr>Eſq</abbr> or his Aſſignes. And for which ſaid Leaſe and Intereſt of the Mills, with
+<pb n="6" facs="tcp:36731:6"/>the appurtenances,<note place="margin">To the uſe of the Underta<g ref="char:EOLhyphen"/>kers.</note> the ſaid Undertakers have contract<g ref="char:EOLhyphen"/>ed with the ſaid <hi>William Dickenſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> for the ſumme of eight hundred and ſeventy pounds; the intereſt, bene<g ref="char:EOLhyphen"/>fit, and advantage, of all and every which Leaſe and Leaſes, as well of the ſaid Mines as Mills, ſhall be to and for the ſaid Undertakers, their Executors, Admini<g ref="char:EOLhyphen"/>ſtrators and Aſſignes, according to their ſeveral ſhares and proportions, hereafter expreſſed, in the preſent Subſcription.</p>
+            <p n="8">
+               <note place="margin">8. The Min<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to be effectually wrought.</note>8. That the ſaid Mines, or ſo many of them, as by the ſaid Undertakers, (or ſuch a number and Quorum of them, as in the ſixteenth Article following is expreſ<g ref="char:EOLhyphen"/>ſed) ſhall be thought fit and appointed, ſhall be forth<g ref="char:EOLhyphen"/>with effectually wrought, at the charge and coſt of the ſaid Undertakers; and that ſuch Adits and Shafts be dri<g ref="char:EOLhyphen"/>ven and ſunk; and ſuch Veins wrought within the ſaid ſeveral Mines, as to the chief Steward, or Conductor of the ſaid Works, and other the Officers and Workmen of the ſaid Mines, ſhall be given in charge by the ſaid Undertakers, or ſuch number and Quorum as aforeſaid, at the coſts and charge as aforeſaid. And that all charge of working the ſaid Mines ſince <hi>Candlemas</hi> day laſt paſt, be born. And all profits of Oar ſince the ſaid time, are intended to enure to the ſaid Undertakers.</p>
+            <p n="9">
+               <note place="margin">9. Chief Steward, and his Salary.</note>9. That <hi>Henry Rumſey</hi> 
+               <abbr>Eſq</abbr> be the chief Steward or Conductor of the ſaid Mines and Works, untill far<g ref="char:EOLhyphen"/>ther order, as in the one and twentieth Article follow<g ref="char:EOLhyphen"/>ing is expreſſed. And that for his pains and care there<g ref="char:EOLhyphen"/>in, he ſhall have allowance at preſent, untill the ſaid Mines ſhall be improved, to a full working thereof, the ſumme of one hundred and ſixty pounds <hi>per annum,</hi> for
+<pb n="7" facs="tcp:36731:6"/>himſelf; and for a Clerk, (to be choſen by the ſaid Un<g ref="char:EOLhyphen"/>dertakers) for the keeping of the accompts of the ſaid Mines, out of which he is to allow the ſaid Clerk thirty pounds <hi>per annum.</hi> And that after the ſaid Mines ſhall be improved to a full working of the ſame, the ſaid <hi>Henry Rumſey</hi> ſhall be allowed for his care and pains, the ſumme of two hundred pounds <hi>per annum,</hi> over and above the ſumme of thirty pounds <hi>per annum,</hi> to be allowed to be ſaid Clerk. And that the ſaid Salary ſhall commence from <hi>Candlemas</hi> day laſt paſt. And that the ſaid <hi>Henry Rumſey</hi> ſhall proceed according to ſuch order and inſtru<g ref="char:EOLhyphen"/>ctions, as have already been ſent unto him from the ſaid Undertakers; and upon ſuch further order and inſtructi<g ref="char:EOLhyphen"/>ons, as by any five of the ſaid Undertakers (whereof three to be of ſuch ſtanding Committee, as in the ſix<g ref="char:EOLhyphen"/>teenth Article following is expreſſed) ſhall be directed and appointed.</p>
+            <p n="10">
+               <note place="margin">10. Maſter-Work<g ref="char:EOLhyphen"/>er, and Refiner, and his Salary.</note> 10. That Major <hi>Richard Hill</hi> be the Maſter-Worker and Refiner, untill further order, as in the one and twen<g ref="char:EOLhyphen"/>tieth Article following is expreſſed. And that for his pains and care therein, he ſhall have allowance at pre<g ref="char:EOLhyphen"/>ſent, the ſumme of one hundred Marks <hi>per annum.</hi> And that the ſaid <hi>Richard Hill</hi> ſhall proceed, as in the preceding Article is declared.</p>
+            <p n="11">
+               <note place="margin">11. Steward of the Mines, and his Salary.</note>11. That <hi>Edward Hacklett</hi> be the Steward of the Mines, untill further Order, as in the one and twentieth Article following is expreſſed. And that for his care and pains therein, he ſhall have allowance the ſumme of thirty pounds <hi>per annum.</hi> And the ſaid <hi>Edward Hacklett</hi> to proceed, as in the ninth Article precedent is de<g ref="char:EOLhyphen"/>clared.</p>
+            <pb n="8" facs="tcp:36731:7"/>
+            <p n="12">
+               <note place="margin">12. Clerk of the M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nes.</note>12. That Mr. <hi>Meredith Lloyd</hi> be the Clerk of the Mines, untill further Order, as in the one and twentieth Article following is expreſſed. And that for his care and pains therein, he have allowance at preſent the ſumme of thir<g ref="char:EOLhyphen"/>ty pounds <hi>per annum,</hi> which for the firſt year is to be pay'd out of the Stewards allowance, as in the ninth Ar<g ref="char:EOLhyphen"/>ticle precedent is declared. And the ſaid <hi>Meredith Lloyd</hi> is to proceed, according to ſuch Order and Dire<g ref="char:EOLhyphen"/>ctions as he ſhall from time to time receive from the chief Steward or Conductor, except only where he ſhall receive any particular Orders or Inſtructions to the con<g ref="char:EOLhyphen"/>trary, from the ſaid Undertakers, or any five of them, whereof three to be of the ſaid ſtanding Committee, in the ſixteenth Article following expreſſed.</p>
+            <p n="13">
+               <note place="margin">13. Regiſter.</note>13. That Mr. <hi>Henry Kempe</hi> ſhall be the Clerk or Regiſter to the ſaid Undertakers, untill further Order, as in the one and twentieth Article following is expreſſed. And that for his care and pains therein, he ſhall have allow<g ref="char:EOLhyphen"/>ance at preſent the ſumme of twenty pounds <hi>per annum.</hi> And that he ſhall make entries of all ſuch Acts, Orders, and other things material, relating unto the ſaid Un<g ref="char:EOLhyphen"/>dertaking, as he ſhall be thereunto required and ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <p n="14">
+               <note place="margin">14. Serjeant.</note>14. That <hi>Thomas Greenfield</hi> ſhall be the Serjeant at<g ref="char:EOLhyphen"/>tending the ſaid Undertakers, untill further Order, as aforeſaid. And to give notice and ſummons, and do other things relating to the ſaid Undertaking. And that for his care and pains therein, he ſhall have allow<g ref="char:EOLhyphen"/>ance at preſent the ſumme of ten pounds <hi>per annum.</hi>
+            </p>
+            <p n="15">15. That when the ſaid Mines ſhall come to a full
+<pb n="9" facs="tcp:36731:7"/>working, there ſhall be likewiſe a Clerk of the Mills,<note place="margin">Clerk of the Mills.</note> who ſhall be choſen, and have ſuch allowance, as by the ſaid Undertakers ſhall be Ordered and Appointed, according to the one and twentieth Article follow<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="16">
+               <note place="margin">16. Standing Com<g ref="char:EOLhyphen"/>mittee, and their power.</note>16. That there ſhall be a ſtanding Committee of the ſaid Undertakers, conſiſting of the number of nine, and no more, unto whom the principal care and manage<g ref="char:EOLhyphen"/>ment of all affairs relating to the ſaid Undertaking, ſhall be and is hereby committed. The ſaid Committee to continue, and a new elected, as in the eighteenth Article is expreſſed. And that the ſaid Committee ſhall meet at the <hi>Robes</hi> Chamber in <hi>Whitehall,</hi> every Tueſday in the afternoon, in Term time, and during the actual ſitting of any Parliament; and in the forenoon out of Term, and the Parliament not ſitting, untill further order, as in the one and twentieth Article following is expreſſed. At which time and place any other of the ſaid Under<g ref="char:EOLhyphen"/>takers may be preſent, and aſſiſt therein, and have equal Votes with any of the ſaid Committee, ſo alwayes that three of the ſaid Committee at the leaſt be preſent. And that there be in all at the leaſt five of the ſaid Un<g ref="char:EOLhyphen"/>dertakers. And it is hereby Declared and Intended, That any five or more of the ſaid Undertakers, (where<g ref="char:EOLhyphen"/>of three at the leaſt to be of the ſaid Committee as afore<g ref="char:EOLhyphen"/>ſaid) meeting at ſuch time and place as aforeſaid, and not otherwiſe, ſhall be accounted a full Meeting of the ſaid Undertakers. And ſhall have full Power and Au<g ref="char:EOLhyphen"/>thority to do any Act, or make Orders, relating to the ſaid Undertaking, as fully as if the ſaid Undertakers were all preſent. And that whatſoever Orders ſhall be made by ſuch number ſo meeting as aforeſaid, or by the
+<pb n="10" facs="tcp:36731:8"/>major part of them, ſhall be good and effectual to all in<g ref="char:EOLhyphen"/>tents and purpoſes, untill the ſame ſhall be reverſed by ſubſequent Order of the Undertakers, as aforeſaid; ex<g ref="char:EOLhyphen"/>cept alwayes, that the Acts and Orders of ſuch number and Meeting, ſhall not be effectual and binding, in ſuch caſes as ſhall be particularly named in the one and twenti<g ref="char:EOLhyphen"/>eth Article following. And it is hereby Agreed, That Sr. <hi>Paul Neile,</hi>
+               <note place="margin">Preſent Com<g ref="char:EOLhyphen"/>mittee.</note> Knight, Sr. <hi>Francis Cobb,</hi> Knight, <hi>Thomas Henſhaw,</hi> 
+               <abbr>Eſq</abbr> Dr. <hi>Williams, James Hayes,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Ball,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>John Wright,</hi> 
+               <abbr>Eſq</abbr> 
+               <hi>Edmond Warcupp</hi> 
+               <abbr>Eſq</abbr> and Mr. <hi>Henry Kempe,</hi> ſhall be the pre<g ref="char:EOLhyphen"/>ſent ſtanding Committee, untill a new one ſhall be elect<g ref="char:EOLhyphen"/>ed, as in the nineteenth and one and twentieth Articles following is expreſſed.</p>
+            <p n="17">
+               <note place="margin">17. Manner of Vo<g ref="char:EOLhyphen"/>ting.</note>17. That in all caſes where it ſhall come to a Vote, in any Meetings or Committees relating to the ſaid Un<g ref="char:EOLhyphen"/>dertaking, every perſon and perſons ſubſcribing and pay<g ref="char:EOLhyphen"/>ing in one hundred pounds, ſhall have one Vote; and likewiſe ſubſcribing and paying in two hundred pounds, ſhall have two Votes; and ſo for the third hundred, three Votes. But that no perſon whatſoever ſhall have more than three ſhares or proportions, or more than three Votes; nor ſhall any perſon be admited to give more Votes than one, unleſs five of the ſaid Underta<g ref="char:EOLhyphen"/>kers at the leaſt ſhall be perſonally preſent, in ſuch man<g ref="char:EOLhyphen"/>ner as in the ſixteenth Article precedent is expreſſed. And that no perſon whatſoever ſhall have more Votes than one, in any caſe relating to the ordering or disbur<g ref="char:EOLhyphen"/>ſing of money, or ſharing of profits, or ſtating and al<g ref="char:EOLhyphen"/>lowance of any Accounts, or altering of theſe preſent Articles, or any of them.</p>
+            <pb n="11" facs="tcp:36731:8"/>
+            <p n="18">
+               <note place="margin">18. Manner of Vo<g ref="char:EOLhyphen"/>ting, in caſe a ſhare fall into more hands than one; or in caſe of a Feme or Infant.</note>18. That where in any caſe, by the death of any of the Undertakers, or otherwiſe, the ſhare and proporti<g ref="char:EOLhyphen"/>on of any ſuch perſon or perſons, ſhall happen to fall in<g ref="char:EOLhyphen"/>to more hands than one, ſuch ſhare and proportion ſhall be accounted but as one, in the ſaid ſeveral hands; and that ſuch perſons into whoſe hands the ſaid ſhare and pro<g ref="char:EOLhyphen"/>portion ſhall fall, ſhall have no Vote amongſt the ſaid Undertakers, unleſs one of the ſaid perſons ſhall happen before to be one of the Undertakers. But otherwiſe the ſaid ſeveral perſons ſhall make a Proxie of one of the Un<g ref="char:EOLhyphen"/>dertakers, who ſhall and may give a Vote in the right of ſuch a ſhare and proportion, ſo long as it ſhall ſo continue in ſeveral hands as aforeſaid; the ſame Rule to hold place where ſuch ſhare or proportion by death or aſſignment, ſhall happen to come to any Woman or Infant, or to any other perſon who ſhall not be allowed and approved by the ſaid Undertakers, or any five or more of them, (whereof three at the leaſt to be of the ſtanding Com<g ref="char:EOLhyphen"/>mittee, in the ſixteenth Article expreſſed) according as by the ſixth Article precedent is Ordered and Ap<g ref="char:EOLhyphen"/>pointed.</p>
+            <p n="19">
+               <note place="margin">19. Laſt Tueſday in <hi>Mich.</hi> and <hi>Trinity</hi> Terms, a general Meeting.</note>19. That every laſt Tueſday, in the Terms of St. <hi>Michael,</hi> and the <hi>Holy Trinity,</hi> yearly, ſhall be eſteemed a general Meeting of the ſaid Undertakers; on every of which dayes, (at ſuch time and place, as in the ſixteenth Article precedent is expreſſed) every of the ſaid Under<g ref="char:EOLhyphen"/>takers ſhall be, and is hereby obliged, to be preſent and aſſiſting;<note place="margin">Names to be called, and e<g ref="char:EOLhyphen"/>very perſon abſent to for<g ref="char:EOLhyphen"/>feit 20. <hi>s.</hi>
+               </note> and the Names of every perſon then having any ſhare, ſhall be called; and every perſon that ſhall not be preſent at the ſaid time, without ſufficient cauſe to be allowed, ſhall forfeit the ſumme of twenty ſhillings, ſuch penalties to be deducted, as in the next following
+<pb n="12" facs="tcp:36731:9"/>Article. And it is hereby Declared and Agreed, That on the ſaid laſt Tueſday,<note place="margin">Laſt Tueſday in <hi>Mich.</hi> Term, Committee to be choſen.</note> in the Term of St. <hi>Michael,</hi> yearly choice ſhall be made of the ſtanding Committee, (in the ſixteenth Article expreſſed) for the year from thence next enſuing, who ſhall have ſuch and the like power and authority, as by theſe preſents is given and ap<g ref="char:EOLhyphen"/>pointed unto the ſaid Committee. And that at the ſaid time and place, ſuch and ſo many of the ſaid Commit<g ref="char:EOLhyphen"/>tee for the preſent year ſhall be continued, and ſo many new elected, (to the number of nine, and no more in all) as to the ſaid Undertakers, or the major part of them then preſent, acording to the twentieth Article following, ſhall ſeem good. But if it ſhould happen no Election to be made on the ſaid day, that then the ſaid Committee for the year precedent, to have the ſame power and authority as before, untill a new Election be made, according to the ſaid one and twentieth Ar<g ref="char:EOLhyphen"/>ticle.</p>
+            <p n="20">
+               <note place="margin">20. Forfeitures to be deducted out of the pro<g ref="char:EOLhyphen"/>fits:</note>20. That all ſuch Penalties, Forfeitures, and Mulcts, as ſhall happen to be made in any caſes, relating to the ſaid Undertaking, ſhall be deducted out of the dividend and proportion, of the profits of ſuch ſhare and propor<g ref="char:EOLhyphen"/>tion, and ſhall be pay'd to the Clerk, for ſuch uſes as by the ſtanding Committee, or any three of them, ſhall be appointed.</p>
+            <p n="21">
+               <note place="margin">21. In what caſes and in what manner Or<g ref="char:EOLhyphen"/>ders ſhall be binding.</note>21. That in all caſes of making or diſcharging any Officer, relating to the ſaid Undertaking, or of taking any other Leaſe, or working any other Mine or Mines, than in the ſeventh Article precedent is and are particu<g ref="char:EOLhyphen"/>larly mentioned; or touching the admittance of any new Member or Adventurer, in the ſaid Undertaking, or
+<pb n="13" facs="tcp:36731:9"/>the choice of any Member into the ſtanding Committee, upon the death or diſplacing of any of them; or touch<g ref="char:EOLhyphen"/>ing and concerning the expending and ordering out of a<g ref="char:EOLhyphen"/>ny ſumme or ſummes of money, exceeding the ſumme of twenty pounds at one time; or touching and concern<g ref="char:EOLhyphen"/>ing the allowance of any Accounts, audited and ſtated; or touching the allowance of any diviſion and ſharing of profits; or touching and concerning the increaſe or alte<g ref="char:EOLhyphen"/>ration of theſe preſent Articles and Agreements, or any of them; no Order ſhall be effectual to bind the ſaid Undertakers, unleſs the ſame be made at ſuch Meeting of the ſaid Undertakers, and ſuch place, as in the ſix<g ref="char:EOLhyphen"/>teenth Article precedent is expreſſed. And that the ſaid Order ſo made, be ratified and confirmed by his Highneſs Prince <hi>Rupert,</hi> and the Lord <hi>Aſhley,</hi> or one of them, under his or their hands, or by ſuch perſon or perſons, as at the yearly Election of the ſtanding Com<g ref="char:EOLhyphen"/>mittee, (as the ſame by the nineteenth Article is limi<g ref="char:EOLhyphen"/>ted) ſhall have ſuch power and authority given them, as by this preſent Article is given to his Highneſs, and the Lord <hi>Aſhley,</hi> as aforeſaid; which Order ſo made and ratified as aforeſaid, ſhall be effectual and binding in all and every the caſes aforeſaid. To the well and truly performing of all and every of which Articles and Agree<g ref="char:EOLhyphen"/>ments, according to our ſeveral ſhares and proportions hereunto ſubſcribed; We the ſaid Undertakers do mu<g ref="char:EOLhyphen"/>tually and reciprocally bind our ſelves, our ſeveral and reſpective Heirs, Executors, and Adminiſtrators, by theſe preſents. Witneſs our Hands and Seals this ſaid nineteenth day of <hi>April,</hi> in the ſaid two and twentieth year of the Reign of our ſaid Soveraign Lord <hi>Charles</hi> the Second, over <hi>England,</hi> &amp;c. <hi>Anno<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Dom.</hi> 1670.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
